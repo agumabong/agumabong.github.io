@@ -7,7 +7,8 @@ aarongumabong@gmail.com / 714-380-1115 / 412 Monroe Irvine, CA 92620
 ##### September 2017 - Present
 * Taught students the setup and use of Rasberry Pi and Arduino
 * Completed advanced projects using Raspberry Pi and Arduino
-* Designed a curriculum for and taught multiple C++ classes
+* Designed a curriculum for C++ classes
+* Taught multiple C++ classes from the basics up to classes and templating
 * Kept detailed logs about day to day operations and daily lessons.
 ### Broadcom
 #### Summer Intern (Test Engineering)
@@ -16,7 +17,6 @@ aarongumabong@gmail.com / 714-380-1115 / 412 Monroe Irvine, CA 92620
 *	Built and tested circuits on a breadboard given specific diagrams.
 *	Applied calculations to ensure readings from the test matched the numbers in the schematic.
 *	Used and implemented various tools such as oscilloscopes, voltmeters and waveform generators. 
-*	Tested the implementation of various products (Arduino and Raspberry Pi) 
 *	Wrote detailed reports and tutorials on installation, setup, and usage of aforementioned products.
 *	Gained proficiency in soldering and the tools associated with building breadboards.
 ## Skills
