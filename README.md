@@ -23,6 +23,6 @@ aarongumabong@gmail.com / 714-380-1115 / 412 Monroe Irvine, CA 92620
 * C++, Python, Java
 * Raspberry Pi and Arduino
 ## Education:
-### September 2016-Present
+##### September 2016-Present
 * Calfornia State University - Fullerton (Computer Science Major)
 
