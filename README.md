@@ -1,7 +1,8 @@
 
 # Aaron Gumabong
+aarongumabong@gmail.com / 714-380-1115 / 412 Monroe Irvine, CA 92620
 ## Work Experience
-### Job 1
+### 
 **This is where I'd put the relevant work experience in my resume.**
 ### Job 2
 Quote from someone who has worked with me: 
