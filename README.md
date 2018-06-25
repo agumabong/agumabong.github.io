@@ -1,6 +1,7 @@
 
 # Aaron Gumabong
 aarongumabong@gmail.com / 714-380-1115 / 412 Monroe Irvine, CA 92620
+
 ## Work Experience
 ### Bytes and Bots
 #### Codology and Fabologie Mentor and Lead Mentor
@@ -10,6 +11,7 @@ aarongumabong@gmail.com / 714-380-1115 / 412 Monroe Irvine, CA 92620
 * Designed a curriculum for C++ classes
 * Taught multiple C++ classes from the basics up to classes and templating
 * Kept detailed logs about day to day operations and daily lessons.
+
 ### Broadcom
 #### Summer Intern (Test Engineering)
 ##### June 2013 - August 2014
@@ -19,9 +21,11 @@ aarongumabong@gmail.com / 714-380-1115 / 412 Monroe Irvine, CA 92620
 *	Used and implemented various tools such as oscilloscopes, voltmeters and waveform generators. 
 *	Wrote detailed reports and tutorials on installation, setup, and usage of aforementioned products.
 *	Gained proficiency in soldering and the tools associated with building breadboards.
+
 ## Skills
 * C++, Python, Java
 * Raspberry Pi and Arduino
+
 ## Education:
 ##### September 2016-Present
 * Calfornia State University - Fullerton (Computer Science Major)
