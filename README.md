@@ -1,4 +1,6 @@
-<p align = "center"> # Resume Header
+<p align = "center"> 
+# Resume Header
+</p>
 ## Work Experience
 ### Job 1
 **This is where I'd put the relevant work experience in my resume.**
